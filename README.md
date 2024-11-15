@@ -7,7 +7,8 @@ To run this project, you will need to add the following environment variables to
 In backend Folder
 
 `PORT`
-`CORS_ORIGIN`
+`CORS_ORIGIN` these two are optional
+
 `MONGODB_URI`
 
 ## Run Locally
@@ -19,7 +20,7 @@ Clone the repository:
   cd jarurat-care
 ```
 
-Install node modules
+Install node modules i am using node 20.12.2
 
 ```bash
   npm install
